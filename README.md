@@ -22,6 +22,10 @@
 - Codex + Obsidian 个人知识系统
 - 面向真实业务问题的 AI 工具实践
 
+## 已发布 Skills
+
+- [`knowledge-inbox-organizer`](skills/knowledge-inbox-organizer/SKILL.md)：把截图、链接、文件和零散记录整理进 Obsidian 知识库。
+
 ## 发布原则
 
 - 只发布已脱敏、具备复用价值的内容。
@@ -36,4 +40,3 @@
 ## License
 
 代码默认采用 [MIT License](LICENSE)。文章、图片、提示词和案例在未单独声明时保留作者权利。
-
